@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "sapper dev",
     "build": "sapper build",
-    "export": "sapper export --basepath universell-utforming --legacy",
+    "export": "sapper export --basepath universell-utforming",
     "start": "node __sapper__/build"
   },
   "dependencies": {
