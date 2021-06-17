@@ -33,6 +33,14 @@
         Hvordan
       </a>
     </li>
+    <li>
+      <a
+        aria-current={segment === "examples" ? "page" : undefined}
+        href="examples"
+      >
+        Eksempler
+      </a>
+    </li>
   </ul>
 </nav>
 
